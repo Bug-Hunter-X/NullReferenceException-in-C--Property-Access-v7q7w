@@ -1,0 +1,1 @@
+This repository demonstrates a common C# error: the NullReferenceException. The `bug.cs` file contains code that attempts to access a property of an object without checking if the object is null, leading to a NullReferenceException. The `bugSolution.cs` file provides a corrected version with null checks.
